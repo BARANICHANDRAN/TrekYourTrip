@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Pega-Codeset-Patch: 
+Operator: sit20it013@sairamtap.edu.in
+Pega-Codeset-Name: Customer
+ArtifactVersion: 01.01.01
+Pega-Archive-Type: ApplicationBundle
+ArtifactType: application
+Pega-Codeset-Version: 06-01-01
+ArtifactName: TrekYour
+Name: TrekYour_010101_20240217T201145_GMT.zip
+Type: Product
+Synchronizable: false
+Product-Creation-Date: 2024-Feb-17 05:00:00
+Engine-Version: 08-23-02
+Export-Date: 2024-Feb-17 20:11:50
+Instance-Count: 4515
+Archive-Type: PegaArchive
+PRPC-Engine: 8.23.1 PRPC-8.23.1-266 ()
+
+Name: FileMetadata
+
